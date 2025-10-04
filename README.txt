@@ -1,7 +1,8 @@
 AuraFarmVill
 
 Description:
-AuraFarmVill is a web-based system created to help farmers easily monitor and manage their animals’ health. It provides a simple way to record animal information, track medical history, and generate health insights.
+AuraFarmVill is a web-based system created to help farmers easily monitor and manage their animals’ health. 
+It provides a simple way to record animal information, track medical history, and generate health insights.
 
 Features:
 Animal Profiles – Save details such as breed, age, and weight.
